@@ -1,11 +1,12 @@
 import 'dart:io';
 
-// Global list for seller products
+// Global List Seller File
 List<String> globalListSeller = [];
 
 //==============================================================================
-//                                SELLER PANEL
 //==============================================================================
+
+// Seller Panel Function
 void sellerPanel() {
   print("""
 \n
@@ -47,15 +48,16 @@ void sellerPanel() {
           logout();
           return;
         default:
-          print("\n❌ Invalid choice. Please try again.\n");
+          print("\nInvalid choice. Please try again.\n");
       }
     }
   }
 }
 
 //==============================================================================
-//                                ADD PRODUCT
 //==============================================================================
+
+// Add Product Function
 void addProduct() {
   print("""
 \n
@@ -80,7 +82,7 @@ void addProduct() {
   }
 }
 
-//addproduct2
+// Add Product Function 2
 addProduct2() {
   print("\n1. You Want To Add More Product");
   print("2. Back To Seller Panel");
@@ -103,8 +105,9 @@ addProduct2() {
 }
 
 //==============================================================================
-//                                REMOVE PRODUCT
 //==============================================================================
+
+// Remove Product Function
 void removeProduct() {
   if (globalListSeller.isEmpty) {
     print("""
@@ -170,7 +173,7 @@ No products found. Please add some products first.
   }
 }
 
-// removeProduct2()
+// Remove Product Function 2
 removeProduct2() {
   print("1. You Want To Remove More Products");
   print("2. Back To Seller Panel");
@@ -193,8 +196,9 @@ removeProduct2() {
 }
 
 //==============================================================================
-//                                VIEW PRODUCTS
 //==============================================================================
+
+// View Product Function
 void viewProducts() {
   print("""
 \n
@@ -241,8 +245,9 @@ void viewProducts() {
 }
 
 //==============================================================================
-//                                  LOGOUT
 //==============================================================================
+
+// Logout
 void logout() {
   while (true) {
     stdout.write("\nAre you sure you want to logout? (y/n): ");
@@ -259,4 +264,3 @@ void logout() {
     }
   }
 }
-
