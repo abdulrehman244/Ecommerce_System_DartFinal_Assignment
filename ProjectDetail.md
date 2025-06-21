@@ -1,8 +1,8 @@
-Mini Ecommerce Management System (Console-Based in Dart)
+Ecommerce System (Console-Based in Dart)
 
 ## Project Description
 
-This is a simple console-based project in Dart which simulates a mini ecommerce management system. The system includes three main roles:
+This is a simple console-based project in Dart which simulates a ecommerce system. The system includes three main roles:
 
 1. Manager
 2. Seller
@@ -16,12 +16,12 @@ This is a simple console-based project in Dart which simulates a mini ecommerce 
 
 ### Responsibilities:
 
-* Add product to global product list.
-* Remove product from the global list.
-* View all available products.
-* View registered users.
-* View registered sellers.
-* Logout functionality.
+. Add product to global product list.
+. Remove product from the global list.
+. View all available products.
+. View registered users.
+. View registered sellers.
+. Logout functionality.
 
 --------------------------------------------------------
 
@@ -31,10 +31,10 @@ This is a simple console-based project in Dart which simulates a mini ecommerce 
 
 ### Responsibilities:
 
-* Add products for selling (stored in seller’s own list).
-* Remove product from their own list.
-* View their product list.
-* Logout functionality.
+. Add products for selling (stored in seller’s own list).
+. Remove product from their own list.
+. View their product list.
+. Logout functionality.
 
 ------------------------------------------------------
 
