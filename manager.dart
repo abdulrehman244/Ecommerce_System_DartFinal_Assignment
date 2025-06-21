@@ -302,7 +302,3 @@ void Logout_Function_Mfile() {
   }
 }
 
-// Main
-void main() {
-  managerpanel_file();
-}
