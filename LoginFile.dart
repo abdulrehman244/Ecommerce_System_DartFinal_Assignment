@@ -46,7 +46,3 @@ String Login_File() {
     }
   }
 }
-
-void main() {
-  Login_File();
-}
