@@ -1,6 +1,6 @@
 import 'dart:io';
 
-// Global Lists
+// Global Lists Manager File
 List<String> Global_list_Managerfile = [
   "Shoes:  Prize: PKR.4500💸",
   "Shirts:  Prize: PKR.2000💸",
