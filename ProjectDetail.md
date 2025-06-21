@@ -16,12 +16,12 @@ This is a simple console-based project in Dart which simulates a ecommerce syste
 
 ### Responsibilities:
 
-. Add product to global product list.
-. Remove product from the global list.
-. View all available products.
-. View registered users.
-. View registered sellers.
-. Logout functionality.
+. Add product to global product list
+. Remove product from the global list
+. View all available products
+. View registered users
+. View registered sellers
+. Logout functionality
 
 --------------------------------------------------------
 
@@ -31,10 +31,10 @@ This is a simple console-based project in Dart which simulates a ecommerce syste
 
 ### Responsibilities:
 
-. Add products for selling (stored in seller’s own list).
-. Remove product from their own list.
-. View their product list.
-. Logout functionality.
+. Add products for selling (stored in seller’s own list)
+. Remove product from their own list
+. View their product list
+. Logout functionality
 
 ------------------------------------------------------
 
@@ -44,10 +44,10 @@ This is a simple console-based project in Dart which simulates a ecommerce syste
 
 ### Responsibilities:
 
-* View all products added by manager.
-* View all products added by sellers.
-* Search a product by name.
-* Logout functionality.
+. View all products added by manager
+. View all products added by sellers
+. Search a product by name
+. Logout functionality
 
 -----------------------------------------------------
 
