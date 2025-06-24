@@ -91,7 +91,7 @@ void managerpanel_file() {
 void Add_Product_Function() {
   print("""
 ================================================================
-|                          ADD PRODUCTS                        |
+|                      ADD PRODUCTS SECTION                    |
 ================================================================
 """);
 
@@ -145,7 +145,7 @@ addproducts2() {
 void Remove_Product_Function() {
   print("""
 ================================================================
-|                       REMOVE PRODUCTS                        |
+|                    REMOVE PRODUCTS SECTION                   |
 ================================================================
 """);
 
@@ -203,7 +203,7 @@ removeproduct2() {
 void view_Product_Function() {
   print("""
 ================================================================
-|                         VIEW PRODUCTS                        |
+|                     VIEW PRODUCTS SECTION                    |
 ================================================================
 """);
 
@@ -238,7 +238,7 @@ void view_Product_Function() {
 void View_User_Function() {
   print("""
 ================================================================
-|                      REGISTERED USERS                        |
+|                   REGISTERED USERS SECTION                   |
 ================================================================
 """);
 
@@ -271,7 +271,7 @@ void View_User_Function() {
 void View_Seller_Function() {
   print("""
 ================================================================
-|                     REGISTERED SELLERS                       |
+|                  REGISTERED SELLERS SECTION                  |
 ================================================================
 """);
 
